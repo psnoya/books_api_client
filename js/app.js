@@ -12,5 +12,4 @@ const displayBooks = async () => {
 
 document.addEventListener('DOMContentLoaded', ()=> {
   displayBooks()
-
 })
